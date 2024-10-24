@@ -1,4 +1,4 @@
-🤖🤖 foobar 🤖🤖
+🤖🤖🤖🤖 foobar 🤖🤖🤖🤖
 | Nombre  | Alias | Ubicacion |
 | ------------- | ------------- | ------------- |
 | Juan A. Piñango  | fred  | Venezuela |
